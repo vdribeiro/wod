@@ -1,0 +1,111 @@
+body {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#header {
+	background-color: blue;
+	background: url(images/img03.jpg) repeat-x left top;
+	border: 3px solid black;
+	padding: 10px;
+	margin: 10px;
+}
+
+#header h1{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 45px;
+	letter-spacing: 0.2em;
+}
+
+#menu {
+	background-color: blue;
+	background: url(images/img01.gif) repeat-x left top;
+	width: 200px;
+	border: 3px ridge black;
+	margin: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float: left;
+	margin-top: 0px;
+  	padding-top: 0px;
+}
+
+#menu  h3{
+	text-align: center;
+	vertical-align: top;
+	padding-top: 0px;
+	color: white;
+	font-size: 20px;
+	letter-spacing: 0.1em;
+}
+
+#login {
+	width: 200px;
+	border: 3px ridge black;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	clear: left;
+	margin-top: 0px;
+}
+
+#logged {
+	width: 200px;
+	border: 3px ridge black;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	clear: left;
+	margin-top: 0px;
+}
+
+#content {
+	background: url(images/img02.jpg) repeat-x left top;
+	border: 3px ridge black;
+	padding: 10px;
+	margin: 10px;
+	margin-left: 250px;
+	padding-bottom: 90px;
+}
+
+#content table{
+	text-align: center;
+	width: 666px;
+}
+
+#login input {
+	display: block;
+	margin-bottom: 5px;
+}
+
+a {
+	color: #336699;
+	text-decoration: none;
+}
+
+.message {
+	display: block;
+	background-color: #339933;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 3px;
+}
+
+.error {
+	color: red;
+}
+
+#errors .error {
+	display: block;
+	background-color: #993333;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 3px;
+}
+

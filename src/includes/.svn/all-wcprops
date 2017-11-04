@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/lbaw10g11/!svn/ver/38/woddev/includes
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/38/woddev/includes/base.php
+END
+smarty.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/38/woddev/includes/smarty.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/38/woddev/includes/session.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/38/woddev/includes/database.php
+END

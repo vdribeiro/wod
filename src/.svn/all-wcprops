@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/lbaw10g11/!svn/ver/270/woddev
+END
+info.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/lbaw10g11/!svn/ver/206/woddev/info.php
+END
+editutilizador.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/352/woddev/editutilizador.php
+END
+criacodeform.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/338/woddev/criacodeform.php
+END
+newprojecto.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/254/woddev/newprojecto.php
+END
+respost.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/144/woddev/respost.php
+END
+newpost.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/129/woddev/newpost.php
+END
+accaologout.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/275/woddev/accaologout.php
+END
+aceitacandform.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/319/woddev/aceitacandform.php
+END
+verpost.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/345/woddev/verpost.php
+END
+verprojecto.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/311/woddev/verprojecto.php
+END
+verutilizador.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lbaw10g11/!svn/ver/352/woddev/verutilizador.php
+END
+delcandidatura.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/312/woddev/delcandidatura.php
+END
+newversao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/285/woddev/newversao.php
+END
+editcli.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/352/woddev/editcli.php
+END
+criaseccaoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lbaw10g11/!svn/ver/88/woddev/criaseccaoform.php
+END
+delseccao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/102/woddev/delseccao.php
+END
+registerUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/276/woddev/registerUser.php
+END
+newcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/340/woddev/newcode.php
+END
+forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/lbaw10g11/!svn/ver/46/woddev/forum.php
+END
+editaversaoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/284/woddev/editaversaoform.php
+END
+addevent.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/lbaw10g11/!svn/ver/352/woddev/addevent.php
+END
+editdocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/lbaw10g11/!svn/ver/340/woddev/editdocs.php
+END
+editacodigoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/338/woddev/editacodigoform.php
+END
+accaologin.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/lbaw10g11/!svn/ver/275/woddev/accaologin.php
+END
+editseccao.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/lbaw10g11/!svn/ver/109/woddev/editseccao.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/lbaw10g11/!svn/ver/274/woddev/index.php
+END
+edittask.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/lbaw10g11/!svn/ver/343/woddev/edittask.php
+END
+verseccao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/245/woddev/verseccao.php
+END
+newevento.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/349/woddev/newevento.php
+END
+newthread.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/115/woddev/newthread.php
+END
+criaversaoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/278/woddev/criaversaoform.php
+END
+editadocsform.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lbaw10g11/!svn/ver/340/woddev/editadocsform.php
+END
+delversao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/286/woddev/delversao.php
+END
+criadocform.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/334/woddev/criadocform.php
+END
+delcodigo.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/342/woddev/delcodigo.php
+END
+editprojecto.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/258/woddev/editprojecto.php
+END
+editaeventoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/351/woddev/editaeventoform.php
+END
+delelemento.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/323/woddev/delelemento.php
+END
+listareventos.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/46/woddev/listareventos.php
+END
+editathreadform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/124/woddev/editathreadform.php
+END
+editversao.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/lbaw10g11/!svn/ver/284/woddev/editversao.php
+END
+verversao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/304/woddev/verversao.php
+END
+deldocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/342/woddev/deldocs.php
+END
+editcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/lbaw10g11/!svn/ver/340/woddev/editcode.php
+END
+editaprojectoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/258/woddev/editaprojectoform.php
+END
+vercodigo.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/336/woddev/vercodigo.php
+END
+criaeventoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/349/woddev/criaeventoform.php
+END
+edituser.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/lbaw10g11/!svn/ver/352/woddev/edituser.php
+END
+delevento.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/345/woddev/delevento.php
+END
+criataskform.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/341/woddev/criataskform.php
+END
+verelemento.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/320/woddev/verelemento.php
+END
+criathreadform.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/114/woddev/criathreadform.php
+END
+newapp.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/lbaw10g11/!svn/ver/317/woddev/newapp.php
+END
+candidataform.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lbaw10g11/!svn/ver/309/woddev/candidataform.php
+END
+delthread.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/123/woddev/delthread.php
+END
+listarutilizadores.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/38/woddev/listarutilizadores.php
+END
+editatarefaform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/344/woddev/editatarefaform.php
+END
+verdocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/337/woddev/verdocs.php
+END
+editevento.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/lbaw10g11/!svn/ver/350/woddev/editevento.php
+END
+newseccao.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/100/woddev/newseccao.php
+END
+criaprojectoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/252/woddev/criaprojectoform.php
+END
+criapostform.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/125/woddev/criapostform.php
+END
+delpost.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/132/woddev/delpost.php
+END
+delprojecto.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/255/woddev/delprojecto.php
+END
+newtask.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/lbaw10g11/!svn/ver/341/woddev/newtask.php
+END
+verevento.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/345/woddev/verevento.php
+END
+editthread.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/lbaw10g11/!svn/ver/124/woddev/editthread.php
+END
+newdoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/lbaw10g11/!svn/ver/340/woddev/newdoc.php
+END
+respostform.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/lbaw10g11/!svn/ver/139/woddev/respostform.php
+END
+verthread.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/245/woddev/verthread.php
+END
+deltarefa.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/lbaw10g11/!svn/ver/342/woddev/deltarefa.php
+END
+listarprojectos.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/212/woddev/listarprojectos.php
+END
+editaseccaoform.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/110/woddev/editaseccaoform.php
+END

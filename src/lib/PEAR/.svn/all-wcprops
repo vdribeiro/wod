@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Validate.php
+END
+PackageFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/PackageFile.php
+END
+Installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Installer.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Exception.php
+END
+Downloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Downloader.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Autoloader.php
+END
+Dependency2.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Dependency2.php
+END
+FixPHP5PEARWarnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/FixPHP5PEARWarnings.php
+END
+RunTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/RunTest.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Config.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Registry.php
+END
+ChannelFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/ChannelFile.php
+END
+XMLParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/XMLParser.php
+END
+REST.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/REST.php
+END
+Packager.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Packager.php
+END
+Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Command.php
+END
+ErrorStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/ErrorStack.php
+END
+Frontend.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Frontend.php
+END
+DependencyDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/DependencyDB.php
+END
+Builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Builder.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/38/woddev/lib/PEAR/Common.php
+END

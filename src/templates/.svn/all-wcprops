@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/lbaw10g11/!svn/ver/270/woddev/templates
+END
+criaversaoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lbaw10g11/!svn/ver/278/woddev/templates/criaversaoform.tpl
+END
+respostform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lbaw10g11/!svn/ver/140/woddev/templates/respostform.tpl
+END
+editadocsform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lbaw10g11/!svn/ver/340/woddev/templates/editadocsform.tpl
+END
+verthread.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/251/woddev/templates/verthread.tpl
+END
+editdev.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/editdev.tpl
+END
+listarprojectos.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/309/woddev/templates/listarprojectos.tpl
+END
+editaseccaoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/103/woddev/templates/editaseccaoform.tpl
+END
+criadocform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lbaw10g11/!svn/ver/334/woddev/templates/criadocform.tpl
+END
+welcome.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/273/woddev/templates/welcome.tpl
+END
+info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/252/woddev/templates/info.tpl
+END
+editaeventoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/350/woddev/templates/editaeventoform.tpl
+END
+criacodeform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lbaw10g11/!svn/ver/325/woddev/templates/criacodeform.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/83/woddev/templates/footer.tpl
+END
+verpost.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/268/woddev/templates/verpost.tpl
+END
+editathreadform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/124/woddev/templates/editathreadform.tpl
+END
+verprojecto.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lbaw10g11/!svn/ver/325/woddev/templates/verprojecto.tpl
+END
+listareventos.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lbaw10g11/!svn/ver/347/woddev/templates/listareventos.tpl
+END
+verutilizador.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/verutilizador.tpl
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lbaw10g11/!svn/ver/271/woddev/templates/menu.tpl
+END
+editadm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/editadm.tpl
+END
+messages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/38/woddev/templates/messages.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/275/woddev/templates/login.tpl
+END
+verversao.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/343/woddev/templates/verversao.tpl
+END
+editcli.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/editcli.tpl
+END
+editaprojectoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lbaw10g11/!svn/ver/258/woddev/templates/editaprojectoform.tpl
+END
+criaseccaoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lbaw10g11/!svn/ver/101/woddev/templates/criaseccaoform.tpl
+END
+vercodigo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/337/woddev/templates/vercodigo.tpl
+END
+criaeventoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lbaw10g11/!svn/ver/349/woddev/templates/criaeventoform.tpl
+END
+registerUser.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lbaw10g11/!svn/ver/353/woddev/templates/registerUser.tpl
+END
+edituser.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/edituser.tpl
+END
+verelemento.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lbaw10g11/!svn/ver/320/woddev/templates/verelemento.tpl
+END
+criataskform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lbaw10g11/!svn/ver/341/woddev/templates/criataskform.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lbaw10g11/!svn/ver/149/woddev/templates/header.tpl
+END
+editaversaoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/287/woddev/templates/editaversaoform.tpl
+END
+criathreadform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lbaw10g11/!svn/ver/110/woddev/templates/criathreadform.tpl
+END
+addevent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lbaw10g11/!svn/ver/352/woddev/templates/addevent.tpl
+END
+candidataform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lbaw10g11/!svn/ver/313/woddev/templates/candidataform.tpl
+END
+listarutilizadores.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lbaw10g11/!svn/ver/257/woddev/templates/listarutilizadores.tpl
+END
+editatarefaform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/343/woddev/templates/editatarefaform.tpl
+END
+editacodigoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lbaw10g11/!svn/ver/338/woddev/templates/editacodigoform.tpl
+END
+listarseccoes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/lbaw10g11/!svn/ver/245/woddev/templates/listarseccoes.tpl
+END
+criaprojectoform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/lbaw10g11/!svn/ver/252/woddev/templates/criaprojectoform.tpl
+END
+criapostform.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lbaw10g11/!svn/ver/239/woddev/templates/criapostform.tpl
+END
+verseccao.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/244/woddev/templates/verseccao.tpl
+END
+verdocumento.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lbaw10g11/!svn/ver/337/woddev/templates/verdocumento.tpl
+END
+errors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lbaw10g11/!svn/ver/38/woddev/templates/errors.tpl
+END
+verevento.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lbaw10g11/!svn/ver/346/woddev/templates/verevento.tpl
+END
